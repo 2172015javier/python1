@@ -1,0 +1,15 @@
+ fe8 ----111111101000
+ fe9----111111101001
+ fa ----11111010
+ fb ----11111011    
+
+FE8=111111101000 /FE9= 111111101001 / FEA=111111101010 / FEB= 111111101011 
+
+### loccal unica= puede otras redes pero no internet /6
+
+fc....fd local unica 
+
+##globales /64 empiezan por 2
+
+ipv6 embedded site:.tcpipguide.com 
+http://www.tcpipguide.com/free/t_IPv6IPv4AddressEmbedding.htm
